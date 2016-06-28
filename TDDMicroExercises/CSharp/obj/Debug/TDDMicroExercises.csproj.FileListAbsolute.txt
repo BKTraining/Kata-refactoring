@@ -1,0 +1,6 @@
+C:\in\Formation\git\TDDwithMockObjectsAndDesignPrinciples\TDDMicroExercises\CSharp\bin\Debug\TDDMicroExercises.dll
+C:\in\Formation\git\TDDwithMockObjectsAndDesignPrinciples\TDDMicroExercises\CSharp\bin\Debug\TDDMicroExercises.pdb
+C:\in\Formation\git\TDDwithMockObjectsAndDesignPrinciples\TDDMicroExercises\CSharp\bin\Debug\nunit.framework.dll
+C:\in\Formation\git\TDDwithMockObjectsAndDesignPrinciples\TDDMicroExercises\CSharp\obj\Debug\TDDMicroExercises.csprojResolveAssemblyReference.cache
+C:\in\Formation\git\TDDwithMockObjectsAndDesignPrinciples\TDDMicroExercises\CSharp\obj\Debug\TDDMicroExercises.dll
+C:\in\Formation\git\TDDwithMockObjectsAndDesignPrinciples\TDDMicroExercises\CSharp\obj\Debug\TDDMicroExercises.pdb
