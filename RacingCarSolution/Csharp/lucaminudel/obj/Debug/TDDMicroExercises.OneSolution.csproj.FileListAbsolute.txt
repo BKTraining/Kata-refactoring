@@ -1,6 +1,0 @@
-C:\in\Formation\git\TDDwithMockObjectsAndDesignPrinciples\TDDMicroExercises.ProposedSolution\CSharp\bin\Debug\TDDMicroExercises.OneSolution.dll
-C:\in\Formation\git\TDDwithMockObjectsAndDesignPrinciples\TDDMicroExercises.ProposedSolution\CSharp\bin\Debug\TDDMicroExercises.OneSolution.pdb
-C:\in\Formation\git\TDDwithMockObjectsAndDesignPrinciples\TDDMicroExercises.ProposedSolution\CSharp\bin\Debug\nunit.framework.dll
-C:\in\Formation\git\TDDwithMockObjectsAndDesignPrinciples\TDDMicroExercises.ProposedSolution\CSharp\obj\Debug\TDDMicroExercises.OneSolution.csprojResolveAssemblyReference.cache
-C:\in\Formation\git\TDDwithMockObjectsAndDesignPrinciples\TDDMicroExercises.ProposedSolution\CSharp\obj\Debug\TDDMicroExercises.OneSolution.dll
-C:\in\Formation\git\TDDwithMockObjectsAndDesignPrinciples\TDDMicroExercises.ProposedSolution\CSharp\obj\Debug\TDDMicroExercises.OneSolution.pdb
